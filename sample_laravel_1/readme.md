@@ -1,0 +1,2 @@
+There are code samples of project that gets properties (Agents, buildings, prices, description) information from different resources and APIs. 
+This project also consists of CMS that provides users ability to buy or make booking of property.
